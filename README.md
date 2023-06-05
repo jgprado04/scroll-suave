@@ -1,0 +1,1 @@
+### Proposto criar um sistema de scroll suave que suma a tal tamanho específico da tela.
